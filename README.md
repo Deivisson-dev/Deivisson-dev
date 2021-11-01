@@ -1,4 +1,4 @@
-## Oi eu sou o Deivisson, apaixonado por tecnologia e programção ♾️
+## Oi eu sou o Deivisson, apaixonado por tecnologia e programação ♾️
 <div align="center">
   <a href="https://github.com/Deivisson7-coder">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deivisson7-coder&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
