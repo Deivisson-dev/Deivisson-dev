@@ -1,2 +1,2 @@
 # Seja Bem vindo ao meu Github ⚡🔥
-  <img src="https://img.freepik.com/free-vector/astronaut-illustration_56972-178.jpg?size=338&ext=jpg" alt="computter" width="500px" height="400px">
+  <img src="https://dbdzm869oupei.cloudfront.net/img/alfombretaratoli/preview/44284.png" alt="computter" width="500px" height="400px">
