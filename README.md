@@ -1,18 +1,16 @@
 # Seja Bem vindo ao meu Github ⚡🔥
+  
   <img src="https://st2.depositphotos.com/50337402/47119/v/600/depositphotos_471196836-stock-illustration-astronaut-blue-gradient-vector-icon.jpg" alt="computter" width="300px" height="200px"
 
-<div id="container">
-
-  <div>
-    <h2 🎡Estudando programação</h2>
-    <p>💻 <i>Tecnologias que usos</i></p>
-    <ul>
-      <li>HTML5</li>
-      <li>CSS3</li>
-      <li>Python</li>
-      <li>Django</li>
-    </ul>
-  </div>
+<div>
+   <h2 🎡Estudando programação</h2>
+   <p>💻 <i>Tecnologias que usos</i></p>
+   <ul>
+     <li>HTML5</li>
+     <li>CSS3</li>
+     <li>Python</li>
+     <li>Django</li>
+   </ul>
   
 
 </div>
