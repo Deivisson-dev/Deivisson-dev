@@ -1,2 +1,2 @@
 # Seja Bem vindo ao meu Github ⚡🔥
-  <img src="file:///C:/Users/darso/Downloads/computer-monitor-graphic-animator-creating-video-game-modeling-motion-processing-video-file-using-professional-editor-vector-illustration-graphic-design-art-designer-workplace-concept_74855-13038-remo%20(1).png" alt="icone-astronauta" width="300px" height="200px">
+  <img src="https://img2.gratispng.com/20180405/dve/kisspng-computer-programming-web-development-computer-soft-coder-5ac6d600f158d3.6813391415229803529886.jpg" alt="icone-astronauta" width="300px" height="200px">
