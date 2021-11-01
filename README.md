@@ -1,2 +1,2 @@
 # Seja Bem vindo ao meu Github ⚡🔥
-  <img src="https://dbdzm869oupei.cloudfront.net/img/alfombretaratoli/preview/44284.png" alt="computter" width="300px" height="200px">
+  <img src="https://img.freepik.com/vetores-gratis/astronauta-bonito-dabbing-ilustracao-do-icone-dos-desenhos-animados-icone-de-ciencia-espacial-isolado-estilo-flat-cartoon_138676-3101.jpg?size=338&ext=jpg" alt="computter" width="300px" height="200px">
