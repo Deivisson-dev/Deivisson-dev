@@ -22,15 +22,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deivisson7-coder&layout=compact&langs_count=7&theme=algolia"/>
 </div>
   
-<div align="center"
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Deivisson7-coder&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deivisson7-coder&layout=compact&langs_count=7&theme=algolia" />
-</a>
-</div>
-
-
-  
   ![Snake animation](https://github.com/Deivisson7-coder/Deivisson7-coder/blob/output/github-contribution-grid-snake.svg)
