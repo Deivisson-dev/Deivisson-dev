@@ -1,5 +1,5 @@
 # Seja Bem vindo ao meu Github ⚡🔥
-  <img src="https://img.freepik.com/vetores-gratis/astronauta-bonito-dabbing-ilustracao-do-icone-dos-desenhos-animados-icone-de-ciencia-espacial-isolado-estilo-flat-cartoon_138676-3101.jpg?size=338&ext=jpg" alt="computter" width="338px" height="338px"
+  <img src="https://st2.depositphotos.com/50337402/47119/v/600/depositphotos_471196836-stock-illustration-astronaut-blue-gradient-vector-icon.jpg" alt="computter" width="300px" height="200px"
 
 <div id="container">
 
