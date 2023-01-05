@@ -52,11 +52,10 @@
 
 </br>
 <h3>📈 Statistics:</h3>
-<div>
- <a href="https://github.com/marcovicar">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deivisson-dev&layout=compact&langs_count=7&theme=midnight-purple"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deivisson-dev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/><br/>
-</div>
+
+![](https://github-readme-stats.vercel.app/api?username=Deivisson-dev&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Deivisson-dev&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deivisson-dev&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Deivisson-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)	
