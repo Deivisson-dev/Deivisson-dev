@@ -42,7 +42,11 @@
 </br>
 <h3>📈 Statistics:</h3>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Deivisson-dev&theme=midnight-purple&hide_border=false)<br/>
+<div>
+ <a href="https://github.com/Deivisson-dev">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deivisson-dev&layout=compact&langs_count=7&theme=midnight-purple"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deivisson-dev&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+</div>
 
 
 ## 🏆 GitHub Trophies
