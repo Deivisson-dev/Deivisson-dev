@@ -32,9 +32,11 @@
   
 <h3>👨🏽‍💻 Languages and Technologies:</h3>
 <div>
-	<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-	<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
-	<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+	<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+	<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+	<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+	<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+	<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
 </div>
 
 </br>
@@ -43,8 +45,8 @@
 <div>
 <div>
  <a href="https://github.com/marcovicar">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deivisson-dev&layout=compact&langs_count=7&theme=dracula"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deivisson-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deivisson-dev&layout=compact&langs_count=7&theme=aura"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deivisson-dev&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
 </div>
 </div>
 
