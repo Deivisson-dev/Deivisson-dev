@@ -40,7 +40,7 @@
 </div>
 
 </br>
-<h3>📈 Statistics:</h3>
+<h3> Statistics:</h3>
 
 <div>
 <div>
