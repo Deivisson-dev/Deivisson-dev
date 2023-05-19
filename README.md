@@ -1,6 +1,6 @@
-<h1><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px"> Hello explorers, I am Deivisson</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=f9004d&height=120&section=header"/>
 
-[![](https://visitcount.itsvg.in/api?id=Deivisson-dev&icon=0&color=11)](https://visitcount.itsvg.in)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f9004d&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Deivisson+Rocha;I'm+17+years+old;I'm+from+Brazil;I'm+Graduating+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div>
   <img
@@ -9,49 +9,35 @@
     />
 </div>
 
----
-<div>
-    <h3>📫 Contact me:</h3>
-	    <a href="https://www.instagram.com/deivisson.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-	    <a href = "mailto:deivisson.profissional@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-	    <a href="https://linkedin.com/in/deivisson-rocha741" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
 
-<h3>ℹ️ About me:</h3>
-
-<div>
-	<ul>
-		<li> 👤 I have 17 years old, i live in Arapiraca - AL, Brazil.</li>
-		<li> 💻 Actually I'm learning web development.</li>
-		<li> ⚡ Fun fact: I'm a crazy lover of space and coffee!</li>
-		<li> 🚀✨ To infinity and beyond</li>
-	</ul>
-</div>
-
-</br>
-  
-<h3>👨🏽‍💻 Languages and Technologies:</h3>
-<div>
-	<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-	<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-	<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-	<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-	<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-</div>
-
-</br>
-<h3>📈 Statistics:</h3>
-
-<div>
-<div>
- <a href="https://github.com/marcovicar">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deivisson-dev&layout=compact&langs_count=7&theme=aura"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deivisson-dev&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-</div>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Deivisson-dev&show_icons=true&count_private=true&hide_border=true&title_color=f9004d&icon_color=f9004d&text_color=f900d&bg_color=000000" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbarbosa101&layout=compact&hide_border=true&title_color=f9004d&text_color=f9004d&bg_color=000000" />
 </div>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Deivisson-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)	
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Deivisson-dev&bg_color=000000&color=f9004d&line=f9004d&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Deivisson-dev&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<div align="center"> 
+<a href="https://instagram.com/deivisson.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:cmp.1a.deivisson.profissional@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/deivisson-rocha741/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+</div>
 	
-![Snake animation](https://github.com/Deivisson-dev/Deivisson-dev/blob/output/github-contribution-grid-snake.svg)
+ ### Main skills:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=HTML5&labelColor=0D1117)&nbsp;
+	
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Deivisson-dev}/count.svg" /></p> 
+<br>
+</div>
+	
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f9004dht=120&section=footer"/>
