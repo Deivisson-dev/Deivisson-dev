@@ -1,4 +1,4 @@
-<h1><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px" height="30px"> Hello explorers, I am Deivisson</h1>
+<h1>Hello explorers, I am Deivisson</h1>
 
 
 [![](https://visitcount.itsvg.in/api?id=Deivisson-dev&icon=0&color=11)](https://visitcount.itsvg.in)
