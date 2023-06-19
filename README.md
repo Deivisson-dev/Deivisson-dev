@@ -43,11 +43,9 @@
 <div>
 <div>
  <a href="https://github.com/marcovicar">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deivisson-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deivisson-dev&layout=compact&langs_count=7&theme=dracula"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Deivisson-dev&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deivisson-dev&layout=compact&langs_count=7&theme=aura"/>
 </div>
 </div>
-	
-[![trophy](https://github-profile-trophy.vercel.app/?username=Deivisson-dev&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 	
 ![Snake animation](https://github.com/Deivisson-dev/Deivisson-dev/blob/output/github-contribution-grid-snake.svg)
