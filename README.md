@@ -20,7 +20,7 @@
 <h3>ℹ️ About me:</h3>
 <div>
 	<ul>
-		<li> 👤 I have 17 years old, i live in Arapiraca - AL, Brazil.</li>
+		<li> 👤 I have 18 years old, i live in Arapiraca - AL, Brazil.</li>
 		<li> 💻 Actually I’m an undergraduate student of Science Computer at Universidade Federal de Alagoas.</li>
 		<li> ⚡ Fun fact: I'm a crazy lover of space and coffee!</li>
 		<li> 🚀✨ To infinity and beyond</li>
