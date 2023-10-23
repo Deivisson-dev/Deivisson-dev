@@ -1,16 +1,6 @@
 <h1>Hello explorers, I am Deivisson</h1>
 
 
-[![](https://visitcount.itsvg.in/api?id=Deivisson-dev&icon=0&color=11)](https://visitcount.itsvg.in)
-
-<div>
-  <img
-    src="https://i.imgur.com/1ZvVkDc.gif" 
-    alt="mario coding"
-    />
-</div>
-
-
 <div>
     <h3>📫 Contact me:</h3>
 	    <a href="https://www.instagram.com/deivisson.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -22,8 +12,6 @@
 	<ul>
 		<li> 👤 I have 18 years old, i live in Arapiraca - AL, Brazil.</li>
 		<li> 💻 Actually I’m an undergraduate student of Science Computer at Universidade Federal de Alagoas.</li>
-		<li> ⚡ Fun fact: I'm a crazy lover of space and coffee!</li>
-		<li> 🚀✨ To infinity and beyond</li>
 	</ul>
 </div>
 </br>
