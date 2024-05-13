@@ -3,7 +3,10 @@
 👩🏻‍🎓 Student Computer Science at the Universidade Federal de Alagoas<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=Deivisson-dev&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Deivisson-dev&theme=aura&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Deivisson-dev&layout=compact&langs_count=7&theme=aura)
+
+
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
