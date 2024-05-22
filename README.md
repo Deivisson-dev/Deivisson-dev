@@ -1,36 +1,33 @@
-# 👋 Hi, I'm Deivisson!
-👩🏻‍💻 Computer Science student who shares his journey and learning in the field of technology<br/>
-👩🏻‍🎓 Student Computer Science at the Universidade Federal de Alagoas<br/>
+## Hello World 👋 It's Deivisson
+
+<a href="www.linkedin.com/in/deivisson-rocha741">
+<img align="left" alt="Deivisson da Silva Rocha LinkedIN" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
+</a>
+<a href="https://www.instagram.com/deivisson.dev/">
+<img align="left" alt="Deivisson da Silva Rocha Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
+</a>
+
+<br>
 
 
-<a href="https://github.com/Deivisson-dev">
-  <img height="180em" display="flex" src="https://github-readme-stats.vercel.app/api?username=Deivisson-dev&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deivisson-dev&layout=compact&langs_count=7&theme=aura"/>
-<a/>
+
+##  Tech Stack
+
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"></code>
 
 
+## What i'm up to
 
-# 💻 Tech Stack
-<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)<br/>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)<br/>
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+- 🔭 I’m currently working Prefeitura de Arapiraca.
+- 🌱 I’m currently working with [PHP](https://www.php.net/).
+- 📚 I'm currently studying computer science at the Federal University of Alagoas - UFAL.
 
+<br>
 
-##
-
-
-# 📫 Contact me:
-<div> 
-  <a href="https://instagram.com/deivisson.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:deivisson.profissional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/deivisson-rocha741" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
+![Deivisson-dev github stats](https://github-readme-stats.vercel.app/api?username=Deivisson-dev&show_icons=true&theme=aura&include_all_commits=true&count_private=true)
