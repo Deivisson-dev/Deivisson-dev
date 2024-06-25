@@ -33,4 +33,4 @@
 
 <br>
 
-![Deivisson-dev github stats](https://github-readme-stats.vercel.app/api?username=Deivisson-dev&show_icons=true&theme=aura&include_all_commits=true&count_private=true)
+![Deivisson-dev github stats](https://github-readme-stats.vercel.app/api?username=Deivisson-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
