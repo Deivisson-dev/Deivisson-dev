@@ -1,11 +1,11 @@
 ## Hello World 👋 It's Deivisson
 
-<a href="https://www.linkedin.com/in/deivisson-rocha741/">
+<a href="https://www.linkedin.com/in/deivisson-rocha741/" target="_blank">
 <img align="left" alt="Deivisson da Silva Rocha Linkedin" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
 </a>
 
 
-<a href="https://www.instagram.com/deivisson.dev/">
+<a href="https://www.instagram.com/deivisson.dev/" target="_blank">
 <img align="left" alt="Deivisson da Silva Rocha Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
 </a>
 
