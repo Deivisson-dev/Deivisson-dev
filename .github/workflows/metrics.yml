@@ -1,0 +1,28 @@
+name: Metrics
+on:
+  # Atualiza todo dia à meia-noite
+  schedule: [{cron: "0 0 * * *"}]
+  # Atualiza também quando você fizer push na main
+  push: {branches: ["main"]}
+  
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate GitHub metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # Arquivo de saída
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Informações básicas
+          base: header, activity, community, repositories, metadata
+          
+          # Plugins extras
+          plugin_isocalendar: yes         # Calendário de contribuições semanais
+          plugin_languages: yes           # Linguagens mais usadas
+          plugin_followup: yes             # Estatísticas de commits recentes
+          
+          # Personalizações extras
+          config_timezone: America/Sao_Paulo
