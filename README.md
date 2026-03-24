@@ -1,60 +1,83 @@
-## Hello World! 👋 I'm Deivisson
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deivisson-rocha741/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/deivisson.dev/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:deivissonrocha.dev@gmail.com)
-
----
-
-### 👨‍💻 About Me
-- 🎓 Currently studying **Computer Science** at [UFAL](https://ufal.br).
-- 🔭 Working as a **Software Developer** at **Prefeitura de Arapiraca**.
-- 🌱 Passionate about **Full Stack Development** and constantly improving my skills.
-- 💡 Enthusiastic about **open-source projects** and solving **real-world problems** through innovative coding solutions.
-
----
-
-### 🛠️ Tech Stack
-
-#### 🚀 Languages & Frameworks
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-### 📈 GitHub Stats
-
 <div align="center">
-  
-![Deivisson-dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deivisson-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=10)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deivisson-dev&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
-  
+
+# Deivisson Rocha
+
+**Software Developer** · Prefeitura de Arapiraca · **CS Student** · [UFAL](https://ufal.br)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deivisson-rocha741/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/deivisson.dev/)
+[![Gmail](https://img.shields.io/badge/deivissonrocha.dev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:deivissonrocha.dev@gmail.com)
+
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
+### About
+
+Full Stack Developer focused on building municipal government platforms and open-source solutions. Currently pursuing a Computer Science degree at UFAL while working on real-world applications that serve public administration.
+
+---
+
+### Tech Stack
+
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Deivisson-dev&theme=darkhub&no-bg=true&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-  
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
 </div>
 
 ---
 
-### ✨ Open Source Contributions
-- **[My Projects](https://github.com/Deivisson-dev?tab=repositories)**: Check out my repositories to explore the code behind my contributions.
+### GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Deivisson-dev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deivisson-dev&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Deivisson-dev&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
-### 💬 Let's Connect
-- 🤝 I love collaborating on new projects! Feel free to reach out if you have any questions or want to work together.
+### Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deivisson-dev/Deivisson-dev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deivisson-dev/Deivisson-dev/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Deivisson-dev/Deivisson-dev/output/github-snake.svg" />
+</picture>
+
+
+---
+
+### Trophies
+
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=Deivisson-dev&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Deivisson-dev&color=333333&style=flat&label=Profile+Views)
+
+</div>
