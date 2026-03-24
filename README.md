@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deivisson-rocha741/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/deivisson.dev/)
-[![Gmail](https://img.shields.io/badge/deivissonrocha.dev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:deivissonrocha.dev@gmail.com)
+[![Gmail](https://img.shields.io/badge/deivissonrocha.dev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:deivisson.profissional@gmail.com)
 
 </div>
 
@@ -14,7 +14,11 @@
 
 ### About
 
-Full Stack Developer focused on building municipal government platforms and open-source solutions. Currently pursuing a Computer Science degree at UFAL while working on real-world applications that serve public administration.
+Software Developer at Prefeitura de Arapiraca, building and maintaining
+municipal platforms that serve public administration. CS student at UFAL
+with hands-on experience in Laravel, Vue.js, React, and DevOps workflows
+including Docker and CI/CD. Passionate about open-source projects and
+turning complex government requirements into clean, functional software.
 
 ---
 
@@ -63,16 +67,6 @@ Full Stack Developer focused on building municipal government platforms and open
   <img alt="Snake animation" src="https://raw.githubusercontent.com/Deivisson-dev/Deivisson-dev/output/github-snake.svg" />
 </picture>
 
-
----
-
-### Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Deivisson-dev&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ---
 
