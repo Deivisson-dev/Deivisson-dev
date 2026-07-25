@@ -65,25 +65,6 @@ interests: open source, developer tooling, clean architecture
 
 ---
 
-## Featured Projects
-
-| Project | What it is | Stack |
-| :--- | :--- | :--- |
-| **[plant-disease-pdi](https://github.com/Deivisson-dev/plant-disease-pdi)** | Detects and quantifies leaf diseases using **classical image processing only** — color, texture and morphology features feeding SVM / RandomForest over the PlantVillage dataset. No deep learning, every step explainable. | `Python` `OpenCV` `scikit-learn` |
-| **[compiladores-fatorial-flex-bison](https://github.com/Deivisson-dev/compiladores-fatorial-flex-bison)** | Lexical and syntactic analyzer for a Pascal subset built with the classic **Flex + Bison** pair, emitting a token stream and a rendered parse tree. | `C` `Flex` `Bison` |
-| **[inloco-papelaria](https://github.com/Deivisson-dev/inloco-papelaria)** | Storefront for a stationery shop — catalog, cart drawer, bestsellers, testimonials and newsletter, built component by component. | `React 19` `Vite` |
-| **[barber-shop](https://github.com/Deivisson-dev/barber-shop)** | Landing page for a professional barbershop. → **[Live demo](https://barber-shop-ten-beryl.vercel.app)** | `HTML` `CSS` `JavaScript` |
-| **[memorabilia](https://github.com/Deivisson-dev/memorabilia)** | Vue 3 single-page app with PrimeVue components and a Tailwind design layer. → **[Live demo](https://memorabilia-five.vercel.app)** | `Vue 3` `TypeScript` `Tailwind` |
-| **[gerenciamento-arquivos](https://github.com/Deivisson-dev/gerenciamento-arquivos)** | Simulated file system with linked block allocation, free-list management and a directory table — operating systems fundamentals from scratch. | `Python` |
-
-<div align="center">
-
-[![All repositories](https://img.shields.io/badge/See_all_repositories-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deivisson-dev?tab=repositories)
-
-</div>
-
----
-
 ## GitHub Stats
 
 <div align="center">
@@ -107,14 +88,6 @@ interests: open source, developer tooling, clean architecture
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Deivisson-dev&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contributions%20in%20the%20last%2031%20days" />
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Deivisson-dev&theme=github-light&area=true&hide_border=true&custom_title=Contributions%20in%20the%20last%2031%20days" />
   <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Deivisson-dev&theme=github-compact&area=true&hide_border=true" />
-</picture>
-
-<br /><br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Deivisson-dev/Deivisson-dev/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Deivisson-dev/Deivisson-dev/output/github-snake.svg" />
-  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Deivisson-dev/Deivisson-dev/output/github-snake.svg" />
 </picture>
 
 </div>
